@@ -1,0 +1,8 @@
+Package: com.ezccmodules.control-center.ezvibratemodule
+Name: EzVibrateModule
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A toggle to turn Vibration on or off from your control center.
+Author: M4cs & Simalary (Chris Harper)
+Section: Control Center (Modules)
+Maintainer: M4cs & Simalary (Chris Harper)
